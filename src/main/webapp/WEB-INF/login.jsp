@@ -2,7 +2,8 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Login</title>    <link rel="css/style.css">
+    <title>Login</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 
 </head>
 <body>
